@@ -1,4 +1,6 @@
 {
     "notebook.output.wordWrap": true,
-    "notebook.output.scrolling": true
+    "notebook.output.scrolling": true,
+    "terminal.integrated.gpuAcceleration": "on",
+    "editor.experimentalGpuAcceleration": "on"
 }
