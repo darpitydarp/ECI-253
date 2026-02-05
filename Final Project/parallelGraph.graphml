@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d12" for="edge" attr.name="geometry" attr.type="string" />
+  <key id="d11" for="edge" attr.name="length" attr.type="string" />
+  <key id="d10" for="edge" attr.name="reversed" attr.type="string" />
+  <key id="d9" for="edge" attr.name="oneway" attr.type="string" />
+  <key id="d8" for="edge" attr.name="highway" attr.type="string" />
+  <key id="d7" for="edge" attr.name="osmid" attr.type="string" />
+  <key id="d6" for="node" attr.name="street_count" attr.type="string" />
+  <key id="d5" for="node" attr.name="x" attr.type="string" />
+  <key id="d4" for="node" attr.name="y" attr.type="string" />
+  <key id="d3" for="graph" attr.name="simplified" attr.type="string" />
+  <key id="d2" for="graph" attr.name="crs" attr.type="string" />
+  <key id="d1" for="graph" attr.name="created_with" attr.type="string" />
+  <key id="d0" for="graph" attr.name="created_date" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="7471168560">
+      <data key="d4">38.567487</data>
+      <data key="d5">-121.7356573</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="7471168562">
+      <data key="d4">38.5684246</data>
+      <data key="d5">-121.7356069</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="7471168568">
+      <data key="d4">38.5710687</data>
+      <data key="d5">-121.7355267</data>
+      <data key="d6">3</data>
+    </node>
+    <edge source="7471168560" target="7471168562" id="0">
+      <data key="d7">798847396</data>
+      <data key="d8">track</data>
+      <data key="d9">False</data>
+      <data key="d10">False</data>
+      <data key="d11">104.34855030625738</data>
+    </edge>
+    <edge source="7471168562" target="7471168560" id="0">
+      <data key="d7">798847396</data>
+      <data key="d8">track</data>
+      <data key="d9">False</data>
+      <data key="d10">True</data>
+      <data key="d11">104.34855030625738</data>
+    </edge>
+    <edge source="7471168562" target="7471168568" id="0">
+      <data key="d7">798847396</data>
+      <data key="d8">track</data>
+      <data key="d9">False</data>
+      <data key="d10">False</data>
+      <data key="d11">296.2997288386401</data>
+      <data key="d12">LINESTRING (-121.7356069 38.5684246, -121.7354734 38.571031, -121.7355267 38.5710687)</data>
+    </edge>
+    <edge source="7471168562" target="7471168568" id="1">
+      <data key="d7">[798847396, 798847397]</data>
+      <data key="d8">track</data>
+      <data key="d9">False</data>
+      <data key="d10">[False, True]</data>
+      <data key="d11">1022.8116589611443</data>
+      <data key="d12">LINESTRING (-121.7356069 38.5684246, -121.7397609 38.5677896, -121.7400111 38.5685504, -121.7399972 38.5687367, -121.7399712 38.5688105, -121.7398668 38.5689164, -121.7396655 38.5690429, -121.7394062 38.5691731, -121.7387213 38.5693282, -121.7385485 38.5694008, -121.7384428 38.5695059, -121.7383884 38.5695885, -121.7376489 38.5709743, -121.7375126 38.571125, -121.737388 38.5712209, -121.7373024 38.5712514, -121.7372011 38.571262, -121.7359823 38.5712362, -121.735883 38.5712179, -121.7355793 38.5711007, -121.7355267 38.5710687)</data>
+    </edge>
+    <edge source="7471168568" target="7471168562" id="0">
+      <data key="d7">[798847396, 798847397]</data>
+      <data key="d8">track</data>
+      <data key="d9">False</data>
+      <data key="d10">[False, True]</data>
+      <data key="d11">1022.8116589611442</data>
+      <data key="d12">LINESTRING (-121.7355267 38.5710687, -121.7355793 38.5711007, -121.735883 38.5712179, -121.7359823 38.5712362, -121.7372011 38.571262, -121.7373024 38.5712514, -121.737388 38.5712209, -121.7375126 38.571125, -121.7376489 38.5709743, -121.7383884 38.5695885, -121.7384428 38.5695059, -121.7385485 38.5694008, -121.7387213 38.5693282, -121.7394062 38.5691731, -121.7396655 38.5690429, -121.7398668 38.5689164, -121.7399712 38.5688105, -121.7399972 38.5687367, -121.7400111 38.5685504, -121.7397609 38.5677896, -121.7356069 38.5684246)</data>
+    </edge>
+    <edge source="7471168568" target="7471168562" id="1">
+      <data key="d7">798847396</data>
+      <data key="d8">track</data>
+      <data key="d9">False</data>
+      <data key="d10">True</data>
+      <data key="d11">296.2997288386401</data>
+      <data key="d12">LINESTRING (-121.7355267 38.5710687, -121.7354734 38.571031, -121.7356069 38.5684246)</data>
+    </edge>
+    <data key="d0">2026-02-03 16:28:11</data>
+    <data key="d1">OSMnx 2.0.6</data>
+    <data key="d2">epsg:4326</data>
+    <data key="d3">True</data>
+  </graph>
+</graphml>
